@@ -1,0 +1,14 @@
+.id-wrapper{
+    color: rgb(27, 66, 172);
+}
+
+.title{
+    color: #6cc3de;
+}
+
+@media only screen and (min-width: 768px) {
+    .id-wrapper{
+        display: flex;
+        justify-content: space-between;
+    }
+}
